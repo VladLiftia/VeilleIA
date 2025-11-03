@@ -1,0 +1,9 @@
+feedparser
+requests
+beautifulsoup4
+openai
+notion-client
+python-dotenv
+newspaper3k
+nltk
+gnews
