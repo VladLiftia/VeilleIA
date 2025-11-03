@@ -6,7 +6,7 @@ Ce projet est un script d'automatisation en Python qui effectue une veille sur d
 
 - **Surveillance de flux RSS** : Récupère les derniers articles depuis une liste de flux RSS configurable.
 - **Notation par IA** : Fait analyser le contenu de chaque article par un modèle de langage (GPT) pour lui attribuer une note de pertinence sur 20 selon des critères prédéfinis.
-- **Filtrage intelligent** : Ne retient que les articles dépassant un seuil de notation (par défaut > 14/20).
+- **Filtrage intelligent** : Ne retient que les articles dépassant un seuil de notation (par défaut > 16/20).
 - **Intégration à Notion** : Ajoute automatiquement les articles pertinents dans une base de données Notion.
 - **Évite les doublons** : Garde une trace des articles déjà traités pour ne pas les ajouter plusieurs fois.
 
